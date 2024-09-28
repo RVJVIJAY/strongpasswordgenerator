@@ -1,5 +1,5 @@
 # 🛡️ Strong Password Generator
-
+🎨 Screenshots
 ![App Screenshot](./public/password.png)
 
 ## 📋 Overview
@@ -29,7 +29,7 @@ The **Strong Password Generator** is a user-friendly application that allows use
 
 2.**Navigate to the project directory:**
 
-     cd vjkart
+     cd password
 3.**Install dependencies using npm or yarn:**
 
     npm install
@@ -40,7 +40,7 @@ The **Strong Password Generator** is a user-friendly application that allows use
 
     Once the development server is running, open http://localhost:5173 to view the application in your browser.
 
-🎨 Screenshots
+
 
 📊 How It Works
 * Input Field: Users can specify the length of the password they want to generate.
